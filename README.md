@@ -114,7 +114,7 @@ git init
 git add .
 git commit -m "Initial LLM Career OS"
 git branch -M main
-git remote add origin <YOUR_GITHUB_REPOSITORY>
+git remote add origin https://github.com/jahidmunna/llm-career-os.git
 git push -u origin main
 ```
 
